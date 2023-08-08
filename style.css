@@ -1,0 +1,12 @@
+button {
+  padding: 80px;
+}
+.buttons {
+  display: flex;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-content: space-around;
+  height: auto;
+  margin: 0;
+  min-height: 700px;
+}
